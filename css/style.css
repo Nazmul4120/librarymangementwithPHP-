@@ -1,0 +1,25 @@
+.main{
+	background-image: url('../img/back.jpg');
+	background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #000000;
+    background-attachment: fixed;
+}
+
+.form-control{
+	width:80%;
+}
+#fchild{
+	margin-top:100px;
+}
+
+label,input{
+	margin-top:10px;
+}
+#sexopt{
+	margin-top: 10px;
+}
+.buts{
+	text-align:center;
+}
+
